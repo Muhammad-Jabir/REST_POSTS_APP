@@ -1,6 +1,10 @@
 # 📝 REST Posts App
 
-<video controls src="_video.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/ae9f397c-4ecc-425b-be54-0b2cf089649e
+
+
 
 A simple RESTful CRUD application built with **Node.js**, **Express**, and **EJS** — demonstrating all HTTP methods (GET, POST, PATCH, DELETE) using a clean MVC-style structure.
 
